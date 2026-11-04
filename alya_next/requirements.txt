@@ -1,0 +1,4 @@
+tdjson==1.8.69
+httpx>=0.28,<1
+python-dotenv>=1,<2
+fastembed>=0.7,<1
